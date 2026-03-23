@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Divyang Solanki  <br>🚀 Aspiring Cloud Engineer  <br>💻 Passionate about Python and AI/ML <br>🌱 Currently learning AWS, Django, and DevOps  
+Hi 👋, I'm Divyang Solanki  <br>🚀 Aspiring Cloud Engineer  <br>💻 Passionate about Python <br>🌱 Currently learning AWS, and AI/ML 
 
 
 ## 🌐 Socials:
